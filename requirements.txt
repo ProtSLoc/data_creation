@@ -1,0 +1,7 @@
+# install the following packages
+csv 
+biopython
+tqdm
+pandas
+concurrent.futures
+cupy
