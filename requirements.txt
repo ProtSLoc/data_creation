@@ -1,7 +1,6 @@
 # install the following packages
-csv 
+
 biopython
 tqdm
 pandas
-concurrent.futures
-cupy
+# cupy==11.0.0
